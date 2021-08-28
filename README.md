@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS and C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach to get back my skill are original.
 
 <!---
 Yamato41/Yamato41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
